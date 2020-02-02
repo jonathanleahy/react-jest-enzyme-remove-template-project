@@ -7,7 +7,7 @@ class App extends React.Component {
     const title='ss'
     return (
         <div data-test='component-app'>
-          <h1>Hello</h1>
+          <h1>Wallaby and Jest and Enzyme and Bable remove data-test</h1>
             sss
         </div>
     );
